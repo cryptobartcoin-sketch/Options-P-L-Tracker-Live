@@ -1,0 +1,5 @@
+{
+  "name": "Options P/L Tracker Live",
+  "description": "An application to track the profit and loss of your options contracts portfolio, using AI to simulate current market prices.",
+  "requestFramePermissions": []
+}
